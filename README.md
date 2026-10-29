@@ -36,9 +36,5 @@ AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,nodejs,nestjs,docker,kubernetes,aws,jenkins,postgres,mysql,nginx,linux,git&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitPokhrel05082002&theme=tokyo-night&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=AmitPokhrel05082002&color=7aa2f7&style=flat-square" />
 </p>
