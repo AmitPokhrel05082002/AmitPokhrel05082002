@@ -23,8 +23,8 @@ AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitPokhrel05082002&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitPokhrel05082002&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmitPokhrel05082002&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmitPokhrel05082002&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
