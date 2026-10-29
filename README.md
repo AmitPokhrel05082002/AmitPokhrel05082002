@@ -19,6 +19,6 @@ for government and enterprise clients.
 AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 
 ### 📫 Reach Me
-[LinkedIn](your-link) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/amit-sharma-6a2194188) · sethsharma38@gmail.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
