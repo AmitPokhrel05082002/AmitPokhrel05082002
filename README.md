@@ -25,5 +25,3 @@ AWS Certified Cloud Practitioner, GSDC DevOps, DevSecOps. Diploma in Cybersecuri
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/amit-sharma-6a2194188) · sethsharma38@gmail.com
-
-I'm open to remote contract work.
