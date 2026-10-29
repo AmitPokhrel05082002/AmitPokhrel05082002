@@ -32,9 +32,9 @@ AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitPokhrel05082002&theme=tokyo-night&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Team+Lead;Spring+Boot+%7C+Angular+%7C+NestJS;Kubernetes+%7C+Docker+%7C+AWS;Building+secure+GovTech+platforms" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmitPokhrel05082002&color=7aa2f7&style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,nodejs,nestjs,docker,kubernetes,aws,jenkins,postgres,mysql,nginx,linux,git&perline=8" />
 </p>
