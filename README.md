@@ -21,4 +21,4 @@ AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 ### 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/amit-sharma-6a2194188) · sethsharma38@gmail.com
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AmitPokhrel05082002&show_icons=true)
