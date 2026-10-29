@@ -30,3 +30,11 @@ AWS Cloud Practitioner · GSDC DevOps · DevSecOps
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmitPokhrel05082002&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitPokhrel05082002&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmitPokhrel05082002&color=7aa2f7&style=flat-square" />
+</p>
